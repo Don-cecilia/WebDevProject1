@@ -8,7 +8,7 @@ main{
 }
 #div_2{ 
     background-color: rgba(187, 137, 28, 0.685);
-    padding-left: 100px;
+    padding-left: 110px;
     padding-top: 3px;
 }
 #div_3{
@@ -51,7 +51,7 @@ p{
 #twitter:hover{
     color: rgba(241, 123, 12, 0.918);
 }
-#linkedin:hover{
+#pinterest:hover{
     color: rgba(241, 123, 12, 0.918);
 }
 #instagram:hover{
